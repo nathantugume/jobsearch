@@ -72,3 +72,18 @@
 - **Avoid / deprioritize:** listings tagged "own visa" (e.g. Ababeel, Jack Motors "IT Support OWN VISA") unless Nathan already holds a transferable UAE residence visa.
 - **Qatar** search returned no current matches; **Saudi Arabia** is active (Riyadh universities + Leidos).
 - Tailor CV to lead with **CCNA + DNS/LAN/WAN** for IT-support/network roles, and separately highlight any **biometric / election-systems** project work for government/secure-systems applications.
+
+---
+
+## Follow-up scan — 2026-06-27 (later run)
+Re-searched Dubai/Abu Dhabi (AE) + Riyadh (SA). All strong matches re-surfaced are **duplicates** of the shortlist above. New postings since the earlier run, none of which beat the existing shortlist:
+
+| Role | Company | Location | Posted | Why not shortlisted |
+|------|---------|----------|--------|---------------------|
+| Network Technician | Dubai Government (DFWAC) | Dubai | Jun 16 | Govt → great sponsorship, but **min 8 yrs IT / 4+ in support** — above 1–5 range. Aspirational. [link](https://to.indeed.com/aaf87mh966pc) |
+| Software Developer | Alghanim Industries | Dubai | Jun 23 | **6+ yrs** + niche Zoho Deluge/Creator stack — out of range. [link](https://to.indeed.com/aavmqpj4y8w9) |
+| Technician Assistant (CCTV/Network/Security) | Suite Life | Dubai | Jun 10 | 0–1 yr, fiber/structured-cabling/CCTV — in range & security-adjacent, but junior assistant role, sponsorship unclear, step down from IT Technician. [link](https://to.indeed.com/aa46w897j9pf) |
+| IT Support Technician | Eway Infosystem | Dubai | Jun 21 | Generic SME IT support; sponsorship unclear. [link](https://to.indeed.com/aalrwmxxhk7s) |
+| IT Officer | RTC-1 (agency) | Abu Dhabi | Jun 24 | Recruitment-agency listing; role/sponsorship unspecified. [link](https://to.indeed.com/aajdbzdw9vgy) |
+
+**Verdict:** No new sponsorship-clear, in-range role that improves on the shortlist. The earlier shortlist (Supreme Legislation Committee, UAE University, BlackStone eIT, Dar Al Uloom) remains the best set to act on. Re-check in a few days.
