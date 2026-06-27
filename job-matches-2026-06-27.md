@@ -67,6 +67,34 @@
 | Communications & Network Administrator | Alfaisal University | Riyadh | https://to.indeed.com/aasbxtwsp799 |
 | IT Support Administrator | University of Dubai | Dubai | https://to.indeed.com/aatt6pvln88m |
 
+---
+
+## 🔄 Update — second sweep (same day, 2026-06-27)
+
+Re-ran searches across Dubai & Abu Dhabi. Two **new** openings worth Nathan's attention that weren't in the shortlist above:
+
+### NEW ⭐ Network Administrator — Naoero Deployment (Global Mission Support Services LLC)
+- **Apply:** https://to.indeed.com/aapk2w8kz69c
+- **Posted:** 2026-06-25 (brand new) · Full-time · Recruiter based Dubai; **role deploys to Nauru, South Pacific** (hospital IT infrastructure)
+- **Requirements:** Diploma/Bachelor's in IT/CS; **3+ years**; **LAN/WAN, TCP/IP, DNS, DHCP**, switches/routers/firewalls, network security & monitoring, endpoint/server support, backup/DR.
+- **Fit:** Near 1:1 with Nathan's CCNA + DNS/LAN/Network-Support skill set — one of the cleanest matches found. **Relocation explicitly required and handled** (deployment contract → visa + relocation covered). Apply by emailing CV + cover letter + certs to talent@gmss.ltd / recruitment@gmss.ltd / hrd@gmss.ltd, subject "Application for Network Administrator – Naoero Deployment".
+- **Watch:** Location is the South Pacific, **not the Middle East** — flag if Nathan only wants Gulf-based roles. Asks "3 years and more experience."
+
+### NEW 🔒 DeepLight AI — explicit visa sponsorship (Dubai & Abu Dhabi)
+- **Full Stack Developer (Dubai):** https://to.indeed.com/aawcl8l8grjg — React/TypeScript, **5 yrs**, fintech UI.
+- **DevOps Engineer (Abu Dhabi):** https://to.indeed.com/aasmg27zdhwc — Terraform/AKS/Azure, **5 yrs** (2 yrs Azure).
+- **Why noted:** Both list **"Visa Sponsorship for the successful individual"** outright — rare clarity — plus relocation-friendly benefits and cert support. **Caveat:** both want **5 yrs** and senior software/cloud depth → **above Nathan's current range / aspirational**, not immediate matches. Worth tracking DeepLight as a known sponsor for when his experience grows, or if a more junior req opens.
+
+### Other new-but-lower-fit (this sweep)
+| Role | Company | Location | Note | Apply |
+|------|---------|----------|------|-------|
+| IT Support Technician L1/L2 | Emly & Chilli Restaurant | Dubai | Restaurant IT; sponsorship unclear | https://to.indeed.com/aaltkwzlmmnf |
+| Technology Operations Specialist | METABOLIC | Dubai | Ops-leaning; verify reqs | https://to.indeed.com/aarpxzxbg9kj |
+| IT Technical Support Engineer | Online IT Solutions | Abu Dhabi | Some reqs want UAE driving licence | https://to.indeed.com/aazzpjb4tgky |
+| DevOps Engineer (Banking) | Fecundity Technologies | Abu Dhabi | Likely mid/senior | https://to.indeed.com/aarqr7fs27f6 |
+
+---
+
 ## Notes & next steps
 - **Sponsorship-safest bets:** government (Supreme Legislation Committee) and universities (UAE University, Dar Al Uloom, Alfaisal, University of Dubai) — these reliably sponsor expat work visas.
 - **Avoid / deprioritize:** listings tagged "own visa" (e.g. Ababeel, Jack Motors "IT Support OWN VISA") unless Nathan already holds a transferable UAE residence visa.
