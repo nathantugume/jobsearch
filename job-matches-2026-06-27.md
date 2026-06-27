@@ -67,6 +67,31 @@
 | Communications & Network Administrator | Alfaisal University | Riyadh | https://to.indeed.com/aasbxtwsp799 |
 | IT Support Administrator | University of Dubai | Dubai | https://to.indeed.com/aatt6pvln88m |
 
+---
+
+## Update — later 2026-06-27 (re-check for new postings)
+
+Re-ran the Gulf search after the initial shortlist. One genuinely strong **new** match surfaced; rest of the board is unchanged.
+
+### ⭐ NEW — IT Administrator — Cars24 Arabia (Dubai) — best experience fit so far
+- **Apply:** https://to.indeed.com/aa6kdwy7mkp2
+- **Posted:** 2026-06-24 · Full-time
+- **Requirements:** Bachelor's in IT/CS; **1–3 years** in IT support / system administration / asset management; good knowledge of **hardware, software, and networking**; integrity handling sensitive data.
+- **Fit:** **Lowest experience bar on the whole list (1–3 yrs)** — dead-center in Nathan's range. Cars24 is a well-funded unicorn actively expanding its UAE team → strong likelihood of **visa sponsorship** for the right hire. Day-to-day hardware/software/network support + asset management maps cleanly to his Torodev IT-technician work and CCNA. "Handling sensitive data" lightly ties to his secure-systems background.
+- **Action:** Top priority to apply this week while fresh.
+
+### IT Support Executive — Al Abbas Group (Dubai) — secondary
+- **Apply:** https://to.indeed.com/aapmbhbvhx8y
+- **Posted:** 2026-06-09 · Permanent · Up to AED 9,000/mo
+- **Requirements:** Bachelor's/Diploma; **min 5 years** IT support; **mandatory hands-on Microsoft 365 admin** (Exchange Online, Teams, SharePoint, OneDrive), AD, Windows Server, backup/recovery, endpoint security.
+- **Fit:** Established 1967 UAE group (500+ staff, presence in KSA/Oman/Qatar). Benefits include **annual air ticket + medical insurance** — an expat-package signal pointing to sponsorship. **Watch:** 5-yr requirement is above Nathan's range and M365 admin is mandatory; a stretch unless he can evidence strong M365 work.
+
+### Checked & skipped
+- **Software Developer — Alghanim Industries (Dubai, Jun 23):** requires **6+ yrs** + niche Zoho Deluge/Creator stack — out of range, not a match.
+- Other results (Deluxe Holiday Homes, Network Overdrive, University of Dubai, BlackStone eIT, DevOps roles in Abu Dhabi) were already captured above or are above/below the target profile.
+
+---
+
 ## Notes & next steps
 - **Sponsorship-safest bets:** government (Supreme Legislation Committee) and universities (UAE University, Dar Al Uloom, Alfaisal, University of Dubai) — these reliably sponsor expat work visas.
 - **Avoid / deprioritize:** listings tagged "own visa" (e.g. Ababeel, Jack Motors "IT Support OWN VISA") unless Nathan already holds a transferable UAE residence visa.
