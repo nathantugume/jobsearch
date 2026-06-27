@@ -72,3 +72,33 @@
 - **Avoid / deprioritize:** listings tagged "own visa" (e.g. Ababeel, Jack Motors "IT Support OWN VISA") unless Nathan already holds a transferable UAE residence visa.
 - **Qatar** search returned no current matches; **Saudi Arabia** is active (Riyadh universities + Leidos).
 - Tailor CV to lead with **CCNA + DNS/LAN/WAN** for IT-support/network roles, and separately highlight any **biometric / election-systems** project work for government/secure-systems applications.
+
+---
+
+## Second pass — new openings (re-check, same day)
+
+> A follow-up sweep surfaced several listings not in the first pass. Indeed's per-job detail endpoint was rate-limited during this run, so requirements/sponsorship below are inferred from titles, companies, and posting dates — **verify exact experience bar and visa terms on each application page.**
+
+### ⭐ NEW standout — Network Administrator (Naoero Deployment) — Global Mission Support Services LLC (Dubai)
+- **Apply:** https://to.indeed.com/aakmznxbv96p
+- **Posted:** 2026-06-25 (freshest on the list) · Full-time
+- **Why it stands out:** "Naoero" = **Nauru** — this is a remote-**deployment** mission-support contract staged out of Dubai. Deployment/expat contractor roles of this kind almost always **bundle visa, flights, and accommodation** (relocation handled by design), so sponsorship clarity is high. Network-admin scope is a direct **CCNA / LAN-WAN / infrastructure** match, and "mission support" sits squarely in Nathan's **secure-systems / infrastructure** flag.
+- **Watch:** Deployment roles can mean rotational/remote-site living; confirm experience bar (likely 2–5 yrs) and contract terms on the page.
+
+### Other new finds
+| # | Role | Company | Location | Posted | Notes | Apply |
+|---|------|---------|----------|--------|-------|-------|
+| 1 | IT Support Technician (L1 & L2) | Emly & Chilli Restaurant LLC | Dubai | 2026-06-18 | Entry-level L1/L2 — fits 1–5 yr range; hospitality SME, confirm sponsorship | https://to.indeed.com/aazlcnxzlq6g |
+| 2 | IT Site Services Engineer | Unipart | Riyadh, KSA | 2026-06-15 | Reputable UK logistics firm; on-site IT support — likely sponsors for KSA posting | https://to.indeed.com/aakr4xty7px6 |
+| 3 | IT Service Desk Technician | Network Overdrive | Dubai | 2026-02-27 | Service-desk tier; same firm as a role in pass 1 (older posting) | https://to.indeed.com/aafwf2hqt8jk |
+| 4 | DevOps Engineer | Deeplight | Abu Dhabi | 2026-06-11 | Infra/automation track; may be mid-level — verify bar | https://to.indeed.com/aa9dtlfv6ftk |
+| 5 | Experienced IT Engineer (KFAD) | SPS International Group | Riyadh, KSA | 2026-06-09 | Secure/defense-adjacent (KFAD); "experienced" may sit above range | https://to.indeed.com/aa4vrzjrg2l2 |
+| 6 | IT Specialist – Support Engineer (KSA) | SD (Middle East) LLC | Riyadh, KSA | 2026-05-01 | General IT support; verify sponsorship | https://to.indeed.com/aapwdvyvx9t9 |
+| 7 | Junior Web Developer | Goaco | Dubai | 2026-04-13 | Software-dev pivot route; Goaco does public-sector software | https://to.indeed.com/aalvmkrs9yn7 |
+
+### ⚠️ Excluded
+- **Junior Software Developer – Emirati Talent** (CNS Middle East, Dubai) — reserved for **UAE nationals** (Emiratization). Not eligible — skip.
+
+### Verdict this pass
+- **Most worth acting on now:** the **Naoero deployment network-admin** role (fresh, strong fit, sponsorship/relocation implied by design). Recommend applying promptly while it's new.
+- The first-pass sponsorship-safe bets (Supreme Legislation Committee, UAE University, BlackStone eIT) remain the steadiest options and are still open.
