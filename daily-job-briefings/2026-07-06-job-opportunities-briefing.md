@@ -1,12 +1,13 @@
 # Nathan’s Daily Job Opportunities Briefing
 
-**Date:** 6 July 2026
+**Date:** 6 July 2026  
+**Evening verification refresh:** 6 July 2026
 
 ## Summary
 
 - **Total active opportunities found:** 14
-- **New opportunities added today:** 1
-- **Still open from previous check:** 13
+- **New opportunities added in this refresh:** 0
+- **Still open from previous check:** 14
 - **Closing within 7 days:** 4
 - **Removed because expired or unsuitable:** 0
 - **Best 3 opportunities Nathan should prioritize today:**
@@ -28,7 +29,7 @@ Main source refreshed today:
 
 - Great Uganda Jobs — Computer/IT jobs category page, checked on 6 July 2026.
 
-Additional note: listings with no clear deadline, expired deadlines, unclear employer identity, internal-only eligibility, or weak relevance were excluded from the active table.
+Additional note: listings with no clear deadline, expired deadlines, unclear employer identity, internal-only eligibility, or weak relevance were excluded from the active table. Middle East and remote searches were checked, but no additional reliable, clearly-deadlined, Nathan-relevant opportunity was added during this refresh.
 
 ## Main Job Opportunities Table
 
@@ -43,7 +44,7 @@ Additional note: listings with no clear deadline, expired deadlines, unclear emp
 | 7 | **Still Open** | Assistant IT Officer - eLearning | Metropolitan International University | Mbarara / Kampala / Kisoro, Uganda | Full-time | eLearning systems support, ICT user support, learning platforms, student/staff support, system administration, troubleshooting, and digital training support. | Very relevant to Nathan’s teaching/training experience, ICT support, software background, and university/instructional technology exposure. | **Thursday, 16 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Apply to the location that best fits. Emphasize Mountains of the Moon University instructor experience, ICT training, LMS/eLearning support, user support, and documentation. |
 | 8 | **Still Open** | Technology Advisory Associate | Asigma | Kampala, Uganda | Full-time | Technology advisory, business analysis, digital transformation, systems assessment, reporting, client engagement, and technology project support. | Good fit for Nathan’s mix of software development, ICT support, client projects, WordPress, systems thinking, and business process understanding. | **Thursday, 16 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Prepare a technology consulting CV. Highlight client delivery, digital transformation, web/mobile systems, business systems, documentation, and stakeholder communication. |
 | 9 | **Still Open** | GPS Tracking & Reporting Officer | City Ambulance | Kampala, Uganda | Full-time | GPS tracking, reporting, monitoring systems, data handling, digital operations, and operational coordination. | Good fit for Nathan’s digital operations, reporting, ICT support, systems monitoring, and field-operations experience from Electoral Commission work. | **Friday, 17 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Prepare a CV emphasizing reporting, tracking systems, digital tools, field ICT support, operational monitoring, accurate data handling, and incident reporting. |
-| 10 | **New** | Digital Strategist | UGAFODE Microfinance Limited (MDI) | Plot 62 Bombo Road, Head Office, Kampala, Uganda | Full-time | Digital strategy, digital channels, online communication, technology-enabled marketing, analytics, content planning, campaign execution, and digital transformation support. | Strong fit for Nathan’s mix of web development, WordPress, digital operations, ICT support, analytics/reporting, and business systems experience. | **Friday, 17 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Review full advert and apply if requirements match. Tailor CV toward WordPress/web administration, digital campaigns, analytics, SEO, user support, and technology-enabled service delivery. |
+| 10 | **Still Open** | Digital Strategist | UGAFODE Microfinance Limited (MDI) | Plot 62 Bombo Road, Head Office, Kampala, Uganda | Full-time | Digital strategy, digital channels, online communication, technology-enabled marketing, analytics, content planning, campaign execution, and digital transformation support. | Strong fit for Nathan’s mix of web development, WordPress, digital operations, ICT support, analytics/reporting, and business systems experience. | **Friday, 17 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Review full advert and apply if requirements match. Tailor CV toward WordPress/web administration, digital campaigns, analytics, SEO, user support, and technology-enabled service delivery. |
 | 11 | **Still Open** | Data Analyst - Pilots and Innovations | Raising The Village | Mbarara, Uganda | Full-time | Bachelor’s degree in Statistics, Economics, Data Science, M&E, Mathematics, or related; 3+ years in data analysis, evaluation, research, or M&E; R/Python/STATA/Excel; Power BI/Tableau/Looker Studio/Shiny; SurveyCTO/ODK/Kobo/CommCare; data quality and analytical workflows. | Strong fit if Nathan positions himself around database systems, reporting, project support, data quality, dashboards, and technology-enabled field monitoring. | **Saturday, 25 July 2026** | https://www.greatugandajobs.com/jobs/job-detail/job-Data-Analyst-Pilots-and-Innovations-job-at-Raising-The-Village-102665/nav-19 | Apply if Nathan can show strong data/reporting experience. Add portfolio evidence of dashboards, database systems, Excel/reporting, and data-driven decision support. |
 | 12 | **Still Open** | Information Technology Officer | Yaobai Cement | Moroto Clinker Factory, Uganda | Full-time | IT operations, user support, systems administration, networking, hardware/software support, and site-based ICT service delivery. | Relevant for Nathan’s ICT support, systems troubleshooting, hardware/software support, field deployment, and operational technology experience. | **Thursday, 30 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Apply if willing to work outside Kampala/Fort Portal. Emphasize field ICT support, systems administration, troubleshooting, documentation, and reliability in remote/site environments. |
 | 13 | **Still Open** | Senior Data Collection & Integrity Officer | Raising The Village | Mbarara, Uganda | Full-time | Bachelor’s degree in M&E, Social Sciences, Economics, Computer Science, Business Computing, Mathematics, Population Studies, or related; 4+ years of applied data-management experience; M&E/project management; relational data systems; Python or R advantage; SurveyCTO, CommCare, Survey123, ArcGIS/QGIS desirable; data quality, repository management, automation, reporting systems, and contractor training. | Strong fit for Nathan’s database management, reporting, project support, field technology support, structured data-handling, systems thinking, and ability to connect software tools with field implementation. | **Tuesday, 4 August 2026** | https://www.greatugandajobs.com/jobs/job-detail/job-Senior-Data-Collection-Integrity-Officer-job-at-Raising-The-Village-103201 | Prioritize after urgent July roles. Tailor CV toward data systems, reporting, database quality, project support, field data validation, technology-enabled monitoring, and any GIS/data collection exposure. |
@@ -81,7 +82,7 @@ This is a strong database/reporting opportunity with a **13 July 2026** deadline
 
 1. **Apply today to BRAC Uganda and Cyber School Technology Solutions** if the full advert confirms Nathan meets the minimum requirements.
 2. **Apply to Exim Bank before 10 July 2026** and prepare the application email subject exactly as instructed in the advert.
-3. Add the new **UGAFODE Digital Strategist** opportunity to the digital/WordPress/web administration CV track.
+3. Prepare a data-focused application for **gnuGrid CRB Limited** before 13 July.
 4. Prepare three CV versions:
    - **ICT Support / IT Service Management CV** for Exim Bank, Donswift, Yaobai Cement, Metropolitan International University, and City Ambulance.
    - **Data / Database / Reporting CV** for gnuGrid, Raising The Village, and data-related roles.
@@ -106,7 +107,11 @@ This is a strong database/reporting opportunity with a **13 July 2026** deadline
 ## Sources Checked
 
 - Great Uganda Jobs — Computer/IT jobs category page: https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13
-- Exim Bank IT Service Mgt Officer listing: https://www.greatugandajobs.com/jobs/job-detail/job-IT-Service-Mgt-Officer-job-at-Exim-Bank-103125
-- Raising The Village Data Analyst - Pilots and Innovations listing: https://www.greatugandajobs.com/jobs/job-detail/job-Data-Analyst-Pilots-and-Innovations-job-at-Raising-The-Village-102665/nav-19
-- Raising The Village Senior Data Collection & Integrity Officer listing: https://www.greatugandajobs.com/jobs/job-detail/job-Senior-Data-Collection-Integrity-Officer-job-at-Raising-The-Village-103201
-- Raising The Village Project Assistants listing: https://www.greatugandajobs.com/jobs/job-detail/job-2-Project-Assistants-job-at-Raising-The-Village-103200
+- Exim Bank role page: https://www.greatugandajobs.com/jobs/job-detail/job-IT-Service-Mgt-Officer-job-at-Exim-Bank-103125
+- Raising The Village Data Analyst role page: https://www.greatugandajobs.com/jobs/job-detail/job-Data-Analyst-Pilots-and-Innovations-job-at-Raising-The-Village-102665/nav-19
+- Raising The Village Senior Data Collection & Integrity Officer role page: https://www.greatugandajobs.com/jobs/job-detail/job-Senior-Data-Collection-Integrity-Officer-job-at-Raising-The-Village-103201
+- Raising The Village Project Assistants role page: https://www.greatugandajobs.com/jobs/job-detail/job-2-Project-Assistants-job-at-Raising-The-Village-103200
+
+## Next Briefing Rule
+
+At the next check, roles with a deadline earlier than the check date should be moved out of the active table. Roles closing on **6 July 2026** should be removed after today unless the employer source clearly shows an extension.
