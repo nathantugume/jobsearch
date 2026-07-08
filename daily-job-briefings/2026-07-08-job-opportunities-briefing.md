@@ -16,7 +16,9 @@
 
 ## Verification Notes
 
-This briefing continues the verified running list from the 7 July 2026 briefing. The active table was checked against the previous GitHub briefing and refreshed using a broader source strategy across Uganda/East Africa ICT job searches, Great Uganda Jobs Computer/IT category, BrighterMonday-style IT listings, O4UG-style searches, ReliefWeb/UN/Impactpool-style searches, and wider East Africa/Middle East/remote technology search queries.
+This briefing continues the verified running list from the previous GitHub briefing. The active table was checked against the existing `daily-job-briefings/2026-07-08-job-opportunities-briefing.md` file and refreshed using a broader source strategy across Uganda/East Africa ICT job searches, Great Uganda Jobs Computer/IT category, BrighterMonday Uganda IT & Telecoms listings, and wider NGO/public-sector/remote search queries.
+
+Fresh source checks confirmed that the Great Uganda Jobs Computer/IT category still shows the active Uganda technology roles and visible deadlines. BrighterMonday Uganda currently shows relevant IT & Telecoms listings, including IT Technical Support and iPOS Field Sales Agent, but the visible listing page does not show clear application deadlines; those roles remain excluded under the rule requiring a clearly stated deadline.
 
 No additional reliable ICT/software/data/digital-operations opportunity with a clearly stated future deadline was verified during this refresh. Roles without visible deadlines, unclear employers, expired deadlines, internal-only restrictions, or generic alerts remain excluded.
 
@@ -99,7 +101,7 @@ This is one of the best strategic roles in the list because it directly combines
 
 ## Sources Checked
 
-- Previous continuous briefing file: `daily-job-briefings/2026-07-07-job-opportunities-briefing.md`
+- Previous continuous briefing file: `daily-job-briefings/2026-07-08-job-opportunities-briefing.md`
 - Great Uganda Jobs Computer/IT jobs category: https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13
 - BrighterMonday Uganda IT & Telecoms category: https://www.brightermonday.co.ug/jobs/it-telecoms
 - Exim Bank IT Service Mgt Officer listing: https://www.greatugandajobs.com/jobs/job-detail/job-IT-Service-Mgt-Officer-job-at-Exim-Bank-103125
