@@ -16,9 +16,11 @@
 
 ## Verification Notes
 
-This briefing continues the verified running list from the previous GitHub briefing. The active table was checked against the existing `daily-job-briefings/2026-07-08-job-opportunities-briefing.md` file and refreshed using a broader source strategy across Uganda/East Africa ICT job searches, Great Uganda Jobs Computer/IT category, BrighterMonday Uganda IT & Telecoms listings, and wider NGO/public-sector/remote search queries.
+This briefing continues the verified running list from the previous GitHub briefing. The active table was compared against the existing `daily-job-briefings/2026-07-08-job-opportunities-briefing.md` file before refresh, so duplicates were avoided and no expired job was retained in the active table.
 
-Fresh source checks confirmed that the Great Uganda Jobs Computer/IT category still shows the active Uganda technology roles and visible deadlines. BrighterMonday Uganda currently shows relevant IT & Telecoms listings, including IT Technical Support and iPOS Field Sales Agent, but the visible listing page does not show clear application deadlines; those roles remain excluded under the rule requiring a clearly stated deadline.
+Fresh checks on **8 July 2026** confirmed that the Great Uganda Jobs Computer/IT category still shows active Uganda technology roles with visible future deadlines, including the urgent Exim Bank, Goethe-Zentrum Kampala, gnuGrid, Donswift, URBRA, Odixcity, Raising The Village, Yaobai Cement, UGAFODE, Akeyo, Pazel Conroy, City Ambulance, Azam, Metropolitan International University, and Asigma opportunities.
+
+Broader source checks were also made across Uganda/East Africa ICT searches, BrighterMonday Uganda IT & Telecoms, and wider NGO/public-sector/remote search queries. BrighterMonday Uganda currently shows relevant IT & Telecoms listings, including **IT Technical Support** and **iPOS Field Sales Agent - Western Uganda**, but the visible listing page does not show clear application deadlines; those roles remain excluded under the rule requiring a clearly stated deadline.
 
 No additional reliable ICT/software/data/digital-operations opportunity with a clearly stated future deadline was verified during this refresh. Roles without visible deadlines, unclear employers, expired deadlines, internal-only restrictions, or generic alerts remain excluded.
 
@@ -86,18 +88,20 @@ This is one of the best strategic roles in the list because it directly combines
 
 1. **Apply to Exim Bank immediately** before the 10 July deadline. Use an IT service-management CV emphasizing incident handling, user support, IT operations, audit follow-up, SLA monitoring, documentation, and asset management.
 2. **Apply to Goethe-Zentrum Kampala immediately** before the 10 July deadline. Use an IT support CV emphasizing helpdesk support, hardware/software troubleshooting, networks, user support, WordPress/web support, and documentation.
-3. **Prepare the URBRA Software Engineering ICT Officer application** before 17 July. Highlight Android, Flutter, PHP/MySQL, WordPress, database systems, public-sector ICT support, reporting, and secure software delivery.
-4. **Prepare one data-focused CV** for gnuGrid, Odixcity data roles, and Raising The Village. Highlight MySQL/PostgreSQL, Excel, reporting, dashboards, database design, data validation, and field data quality.
-5. **Prepare one AI/digital transformation CV** for Pazel Conroy Consulting, Odixcity AI Policy Reviewer, UGAFODE Digital Strategist, and Asigma Technology Advisory Associate.
-6. **Treat Azam CCTV as a backup option**, not a top priority, because it is more operations/monitoring than software engineering or ICT Officer work.
-7. Add portfolio links where acceptable:
+3. **Prepare the gnuGrid Data Manager application** before 13 July. Use a data-focused CV emphasizing MySQL/PostgreSQL, Excel, reporting, data accuracy, database systems, and digital operations.
+4. **Prepare the Donswift IT Officer application** before 14 July. Highlight ICT support, systems administration, troubleshooting, field support, and documentation.
+5. **Prepare the URBRA Software Engineering ICT Officer application** before 17 July. Highlight Android, Flutter, PHP/MySQL, WordPress, database systems, public-sector ICT support, reporting, and secure software delivery.
+6. **Prepare one data-focused CV** for gnuGrid, Odixcity data roles, and Raising The Village. Highlight MySQL/PostgreSQL, Excel, reporting, dashboards, database design, data validation, and field data quality.
+7. **Prepare one AI/digital transformation CV** for Pazel Conroy Consulting, Odixcity AI Policy Reviewer, UGAFODE Digital Strategist, and Asigma Technology Advisory Associate.
+8. **Treat Azam CCTV as a backup option**, not a top priority, because it is more operations/monitoring than software engineering or ICT Officer work.
+9. Add portfolio links where acceptable:
    - GitHub profile
    - Android/Flutter projects
    - WordPress projects
    - PHP/MySQL systems
    - Reporting/database work examples
-8. Save a copy of each advert, submitted CV, application letter, and confirmation email/screenshot.
-9. Do not delay roles closing on **10 July**, **13 July**, and **14 July**.
+10. Save a copy of each advert, submitted CV, application letter, and confirmation email/screenshot.
+11. Do not delay roles closing on **10 July**, **13 July**, and **14 July**.
 
 ## Sources Checked
 
