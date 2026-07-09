@@ -1,13 +1,13 @@
 # Nathan’s Daily Job Opportunities Briefing
 
 **Date:** 9 July 2026  
-**Refresh:** Midday verification update
+**Refresh:** Evening verification update
 
 ## Summary
 
 - **Total active opportunities found:** 24
-- **New opportunities added today:** 1
-- **Still open from previous briefing:** 23
+- **New opportunities added this refresh:** 0
+- **Still open from previous briefing:** 24
 - **Closing within 7 days:** 7
 - **Removed because expired or unsuitable:** 0
 - **Best 3 opportunities Nathan should prioritize today:**
@@ -17,11 +17,11 @@
 
 ## Verification Notes
 
-This briefing was prepared by comparing against the previous continuous GitHub briefing for **9 July 2026**. The running list was preserved, duplicates were avoided, and expired roles were not retained in the active table.
+This briefing was prepared by comparing against the previous continuous GitHub briefing for **9 July 2026**. The running list was preserved, duplicates were avoided, and no expired roles were retained in the active table.
 
-Fresh checks confirmed that the Great Uganda Jobs Computer/IT category still shows active Uganda technology roles with visible future deadlines, including Exim Bank, Goethe-Zentrum Kampala, Odixcity Consulting, Akeyo, Pazel Conroy Consulting, Azam Uganda, URBRA, UGAFODE, City Ambulance, Yaobai Cement, Donswift, Metropolitan International University, Raising The Village, and a newly identified Danish Refugee Council role. Broader checks also reviewed BrighterMonday Uganda IT & Telecoms and remote developer boards, but the visible listings still did not provide enough clearly stated application deadlines for inclusion under the rule requiring a specific future deadline.
+This refresh reviewed the existing active list and broader source categories, including Uganda IT job boards, BrighterMonday Uganda IT & Telecoms, Great Uganda Jobs Computer/IT, Remote OK developer/software roles, We Work Remotely full-stack roles, and ReliefWeb-style development-sector searches. The visible remote-board roles reviewed in this run generally did not provide clearly stated application deadlines, so they were not added under the strict rule requiring a specific future deadline. Some direct Great Uganda Jobs role pages were intermittently unavailable to fetch during this run, so no unverified new roles were added.
 
-The only new role added in this refresh is **Information Management and Accountability Specialist — Danish Refugee Council (DRC)**, listed under Computer/IT jobs, with a stated deadline of **Monday, 20 July 2026** and duty station shown as **Juba | Kampala**.
+No new reliable, deadline-based role was added in this refresh. Nathan should focus first on the roles closing on **10 July**, **13 July**, **14 July**, **16 July**, and **17 July 2026**.
 
 ## Main Job Opportunities Table
 
@@ -37,7 +37,7 @@ The only new role added in this refresh is **Information Management and Accounta
 | 8 | **Still Open — High Priority** | ICT Officer – Software Engineering | Uganda Retirement Benefits Regulatory Authority (URBRA) | Kampala, Uganda | Full-time | Software engineering, ICT systems, application support/development, technical documentation, and public-sector technology operations. | One of the strongest matches for Nathan because it directly combines ICT Officer experience with software engineering, systems support, and application development. | **Friday, 17 July 2026** | https://www.greatugandajobs.com/job-categories/job-detail/job-ICT-Officer-%E2%80%93-Software-Engineering-job-at-Uganda-Retirement-Benefits-Regulatory-Authority-URBRA-103224 | Prioritize strongly. Tailor CV toward software engineering, Android/Flutter/web systems, database design, public-sector ICT support, documentation, and secure systems delivery. |
 | 9 | **Still Open** | GPS Tracking & Reporting Officer | City Ambulance | Kampala, Uganda | Full-time | GPS tracking, reporting, monitoring systems, data handling, digital operations, and operational coordination. | Good fit for Nathan’s digital operations, reporting, ICT support, systems monitoring, and field-operations experience from Electoral Commission work. | **Friday, 17 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Prepare a CV emphasizing reporting, tracking systems, digital tools, field ICT support, operational monitoring, accurate data handling, and incident reporting. |
 | 10 | **Still Open** | Digital Strategist | UGAFODE Microfinance Limited (MDI) | Plot 62 Bombo Road, Head Office, Kampala, Uganda | Full-time | Digital strategy, digital channels, online communication, technology-enabled marketing, analytics, content planning, campaign execution, and digital transformation support. | Strong fit for Nathan’s mix of web development, WordPress, digital operations, ICT support, analytics/reporting, and business systems experience. | **Friday, 17 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Review full advert and apply if requirements match. Tailor CV toward WordPress/web administration, digital campaigns, analytics, SEO, user support, and technology-enabled service delivery. |
-| 11 | **Still Open** | Information Management and Accountability Specialist | Danish Refugee Council (DRC) | Juba / Kampala | Full-time | Information management, accountability systems, data handling, reporting, digital tools, programme information workflows, documentation, and humanitarian/development-sector coordination. | Good fit for Nathan’s ICT support, database management, reporting, digital operations, project support, data quality, and field-operations background. | **Monday, 20 July 2026** | https://www.greatugandajobs.com/job-categories/job-detail/job-Information-Management-and-Accountability-Specialist-job-at-Danish-Refugee-Council-DRC-103432 | New role to review today. Tailor CV toward information management, database/reporting systems, dashboards, accountability data, field digital tools, project support, and documentation. |
+| 11 | **Still Open** | Information Management and Accountability Specialist | Danish Refugee Council (DRC) | Juba / Kampala | Full-time | Information management, accountability systems, data handling, reporting, digital tools, programme information workflows, documentation, and humanitarian/development-sector coordination. | Good fit for Nathan’s ICT support, database management, reporting, digital operations, project support, data quality, and field-operations background. | **Monday, 20 July 2026** | https://www.greatugandajobs.com/job-categories/job-detail/job-Information-Management-and-Accountability-Specialist-job-at-Danish-Refugee-Council-DRC-103432 | Review and apply if the Juba/Kampala arrangement fits. Tailor CV toward information management, database/reporting systems, dashboards, accountability data, field digital tools, project support, and documentation. |
 | 12 | **Still Open** | IT - Graduate Recruitment Programme | Akeyo | Kampala, Uganda | Full-time | Graduate IT recruitment, junior technical training, software/IT fundamentals, systems exposure, and willingness to learn. | Useful if Nathan wants a structured technology pathway, especially if the programme provides exposure to professional IT/software projects. | **Monday, 20 July 2026** | https://www.greatugandajobs.com/job-categories/job-detail/job-IT-Graduate-Recruitment-Programme-job-at-Akeyo-103321 | Apply if requirements allow experienced graduates. Emphasize IT degree, Android/Flutter/web projects, GitHub portfolio, and willingness to grow in a structured programme. |
 | 13 | **Still Open** | Technology, Digitalization and Artificial Intelligence Consultant | Pazel Conroy Consulting Limited | Kampala, Uganda | Full-time | Digitalization, AI advisory, technology transformation, systems analysis, reporting, and consulting support. | Strong fit for Nathan’s software development, ICT support, WordPress/web projects, database systems, and growing AI/software automation interest. | **Monday, 20 July 2026** | https://www.greatugandajobs.com/job-categories/job-detail/job-Technology%2C-Digitalization-and-Artificial-Intelligence-Consultant-job-at-Pazel-Conroy-Consulting-Limited-103279 | Prepare a technology consulting CV. Highlight software projects, digital transformation, AI-assisted workflows, systems documentation, client delivery, and business process improvement. |
 | 14 | **Still Open — Digital Operations Option** | Operator-CCTV System Vigilance | Azam Uganda Limited | Mukono, Uganda | Full-time | CCTV system monitoring, vigilance, incident observation, reporting, operational discipline, and system-based security monitoring. | Relevant as a digital-operations fallback because it connects to monitoring systems, reporting, technical vigilance, and operations support; weaker than software/ICT Officer roles but still legitimate and deadline-based. | **Monday, 20 July 2026** | https://www.greatugandajobs.com/job-categories/job-detail/job-Operator-CCTV-System-Vigilance-job-at-Azam-Uganda-Limited-103274 | Apply only after higher-priority ICT/software/data roles. Emphasize monitoring systems, reporting accuracy, digital operations, field discipline, and technical troubleshooting. |
@@ -88,16 +88,16 @@ This is one of the best strategic roles in the list because it directly combines
 
 1. **Apply to Exim Bank today** before the 10 July deadline. Use an IT service-management CV emphasizing incident handling, user support, IT operations, audit follow-up, SLA monitoring, documentation, and asset management.
 2. **Apply to Goethe-Zentrum Kampala today** before the 10 July deadline. Use an IT support CV emphasizing helpdesk support, hardware/software troubleshooting, networks, user support, WordPress/web support, and documentation.
-3. **Review and shortlist the new DRC Information Management role today.** If applying, use an information-management CV emphasizing database/reporting systems, dashboards, data quality, accountability tools, field reporting, documentation, and project-support experience.
-4. **Prepare the gnuGrid Data Manager application** before 13 July. Use a data-focused CV emphasizing MySQL/PostgreSQL, Excel, reporting, data accuracy, database systems, and digital operations.
-5. **Prepare the Donswift IT Officer application** before 14 July. Highlight ICT support, systems administration, troubleshooting, field support, and documentation.
+3. **Prepare the gnuGrid Data Manager application** before 13 July. Use a data-focused CV emphasizing MySQL/PostgreSQL, Excel, reporting, data accuracy, database systems, and digital operations.
+4. **Prepare the Donswift IT Officer application** before 14 July. Highlight ICT support, systems administration, troubleshooting, field support, and documentation.
+5. **Prepare the 16 July applications early:** Donswift ICT Officer, Metropolitan International University Assistant IT Officer - eLearning, and Asigma Technology Advisory Associate.
 6. **Prepare the URBRA Software Engineering ICT Officer application** before 17 July. Highlight Android, Flutter, PHP/MySQL, WordPress, database systems, public-sector ICT support, reporting, and secure software delivery.
 7. **Prepare one data-focused CV** for gnuGrid, Odixcity data roles, Raising The Village, and DRC. Highlight MySQL/PostgreSQL, Excel, reporting, dashboards, database design, data validation, and field data quality.
 8. **Prepare one AI/digital transformation CV** for Pazel Conroy Consulting, Odixcity AI Policy Reviewer, UGAFODE Digital Strategist, and Asigma Technology Advisory Associate.
 9. **Treat Azam CCTV as a backup option**, not a top priority, because it is more operations/monitoring than software engineering or ICT Officer work.
 10. Add portfolio links where acceptable: GitHub profile, Android/Flutter projects, WordPress projects, PHP/MySQL systems, and reporting/database work examples.
 11. Save a copy of each advert, submitted CV, application letter, and confirmation email/screenshot.
-12. Do not delay roles closing on **10 July**, **13 July**, **14 July**, and **16 July**.
+12. Do not delay roles closing on **10 July**, **13 July**, **14 July**, **16 July**, and **17 July**.
 
 ## Sources Checked
 
@@ -106,6 +106,7 @@ This is one of the best strategic roles in the list because it directly combines
 - BrighterMonday Uganda IT & Telecoms category: https://www.brightermonday.co.ug/jobs/it-telecoms
 - Remote OK Developer + Software jobs: https://remoteok.com/remote-dev+software-jobs
 - We Work Remotely Full-Stack Programming jobs: https://weworkremotely.com/categories/remote-full-stack-programming-jobs
+- ReliefWeb jobs search: https://reliefweb.int/jobs
 - Exim Bank IT Service Mgt Officer listing: https://www.greatugandajobs.com/jobs/job-detail/job-IT-Service-Mgt-Officer-job-at-Exim-Bank-103125
 - IT Support Specialist — Goethe-Zentrum Kampala: https://www.greatugandajobs.com/job-categories/job-detail/job-IT-Support-Specialist-job-at-Goethe-Zentrum-Kampala-103331
 - Information Management and Accountability Specialist — Danish Refugee Council: https://www.greatugandajobs.com/job-categories/job-detail/job-Information-Management-and-Accountability-Specialist-job-at-Danish-Refugee-Council-DRC-103432
