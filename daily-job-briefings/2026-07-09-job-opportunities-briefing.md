@@ -1,7 +1,7 @@
 # Nathan’s Daily Job Opportunities Briefing
 
 **Date:** 9 July 2026  
-**Refresh:** Evening verification update
+**Refresh:** Late verification update
 
 ## Summary
 
@@ -19,9 +19,11 @@
 
 This briefing was prepared by comparing against the previous continuous GitHub briefing for **9 July 2026**. The running list was preserved, duplicates were avoided, and no expired roles were retained in the active table.
 
-This refresh reviewed the existing active list and broader source categories, including Uganda IT job boards, BrighterMonday Uganda IT & Telecoms, Great Uganda Jobs Computer/IT, Remote OK developer/software roles, We Work Remotely full-stack roles, and ReliefWeb-style development-sector searches. The visible remote-board roles reviewed in this run generally did not provide clearly stated application deadlines, so they were not added under the strict rule requiring a specific future deadline. Some direct Great Uganda Jobs role pages were intermittently unavailable to fetch during this run, so no unverified new roles were added.
+This refresh reviewed the existing active list and broader source categories, including Great Uganda Jobs Computer/IT listings, BrighterMonday Uganda IT & Telecoms, Remote OK developer/software roles, We Work Remotely full-stack roles, ReliefWeb-style development-sector searches, and O4UG-style Uganda ICT searches where accessible.
 
-No new reliable, deadline-based role was added in this refresh. Nathan should focus first on the roles closing on **10 July**, **13 July**, **14 July**, **16 July**, and **17 July 2026**.
+No new reliable, deadline-based role was added in this refresh. Great Uganda Jobs continued to show the strongest verified deadline-based Uganda ICT/data list. BrighterMonday showed relevant IT/Telecoms roles, including IT Technical Support and iPOS Field Sales Agent, but the visible listing page did not show clear application deadlines, so those were excluded under the strict deadline rule. Remote OK and We Work Remotely showed remote roles open to broad regions/worldwide, but the visible listings reviewed did not provide fixed application deadlines, so they were also excluded.
+
+Nathan should focus first on the roles closing on **10 July**, **13 July**, **14 July**, **16 July**, and **17 July 2026**.
 
 ## Main Job Opportunities Table
 
@@ -107,6 +109,7 @@ This is one of the best strategic roles in the list because it directly combines
 - Remote OK Developer + Software jobs: https://remoteok.com/remote-dev+software-jobs
 - We Work Remotely Full-Stack Programming jobs: https://weworkremotely.com/categories/remote-full-stack-programming-jobs
 - ReliefWeb jobs search: https://reliefweb.int/jobs
+- O4UG ICT-style searches where accessible: https://www.o4ug.com/category/ict-jobs-in-uganda/
 - Exim Bank IT Service Mgt Officer listing: https://www.greatugandajobs.com/jobs/job-detail/job-IT-Service-Mgt-Officer-job-at-Exim-Bank-103125
 - IT Support Specialist — Goethe-Zentrum Kampala: https://www.greatugandajobs.com/job-categories/job-detail/job-IT-Support-Specialist-job-at-Goethe-Zentrum-Kampala-103331
 - Information Management and Accountability Specialist — Danish Refugee Council: https://www.greatugandajobs.com/job-categories/job-detail/job-Information-Management-and-Accountability-Specialist-job-at-Danish-Refugee-Council-DRC-103432
