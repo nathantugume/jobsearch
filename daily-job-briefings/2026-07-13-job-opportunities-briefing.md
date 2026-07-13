@@ -5,8 +5,8 @@
 
 ## Summary
 
-- **Total active opportunities found:** 30
-- **New opportunities added today:** 0
+- **Total active opportunities found:** 31
+- **New opportunities added today:** 1
 - **Still open from the previous briefing:** 30
 - **Closing within 7 days:** 12
 - **Removed because expired:** 0
@@ -17,13 +17,13 @@
 
 ## Verification Notes
 
-This briefing was compared against `daily-job-briefings/2026-07-12-job-opportunities-briefing.md`. The 30-item continuous list was retained, duplicates were avoided, and no active-table deadline had passed at the time of this 13 July 2026 verification.
+This briefing was compared against the existing 13 July continuous list and the previous 12 July briefing. The existing 30 active opportunities were retained without duplication.
 
-Fresh checks covered Great Uganda Jobs Computer/IT and Data, Monitoring and Research categories, BrighterMonday Uganda IT & Telecoms, ReliefWeb Uganda, and the previously tracked specialist and official sources. The deadline-qualified Great Uganda Jobs ICT/data listings continue to show the tracked Donswift, Metropolitan International University, URBRA, UGAFODE, DRC, Odixcity, Raising The Village and Yaobai Cement roles.
+A new deadline-qualified role appeared in the Great Uganda Jobs Computer/IT category on 13 July 2026: **ICT Assistant — Uganda Martyrs University, Mbale Campus**, with a stated deadline of **Thursday, 30 July 2026**. It has been added as a new opportunity.
 
-BrighterMonday now shows an IT Graduate Trainee role at Sokoni Africa Ltd and continues to show IT Technical Support at Lotus Soft Technologies Ltd. However, the accessible listings do not state a fixed application deadline, so both are excluded under the strict deadline rule.
+BrighterMonday Uganda currently lists 10 IT & Telecoms vacancies, including IT Technical Support at Lotus Soft Technologies, but the accessible listing still does not state a fixed closing date. Such roles remain excluded under the strict deadline rule.
 
-No distinct new Middle East or remote role with a clearly verifiable fixed closing date and clear eligibility for applicants from Uganda was added in this refresh. Roles with rolling applications, unspecified expiry dates, or unclear applicant-location eligibility remain excluded.
+No distinct new Middle East or remote role with a clearly verifiable fixed closing date and clear eligibility for applicants from Uganda was added in this refresh. Rolling applications, unspecified expiry dates, and unclear applicant-location eligibility remain excluded.
 
 ## Main Job Opportunities Table
 
@@ -57,8 +57,9 @@ No distinct new Middle East or remote role with a clearly verifiable fixed closi
 | 26 | **Still Open — Data & Reporting Role** | Data Analyst | Raising The Village | Mbarara, Uganda | Full-time | Data analysis, quantitative reporting, datasets, analytical tools, dashboards, and programme decision support. | Strong fit for Nathan’s database, reporting, data quality, ICT systems, and field-data experience, especially with his Western Uganda background. | **Saturday, 25 July 2026** | https://www.greatugandajobs.com/employers/job-detail/job-Data-Analyst-job-at-Raising-The-Village-102664 | Tailor a data CV around PostgreSQL/MySQL, Excel, dashboards, data quality, field reporting, and decision-support systems. |
 | 27 | **Still Open** | Data Analyst - Pilots and Innovations | Raising The Village | Mbarara, Uganda | Full-time | Quantitative degree; 3+ years; R/Python/STATA/Excel; Power BI/Tableau/Looker Studio; SurveyCTO/ODK/Kobo. | Strong fit if Nathan positions himself around databases, reporting, data quality, dashboards, and field monitoring. | **Saturday, 25 July 2026** | https://www.greatugandajobs.com/jobs/job-detail/job-Data-Analyst-Pilots-and-Innovations-job-at-Raising-The-Village-102665/nav-19 | Add dashboard, database, Excel-reporting, and data-driven decision-support portfolio evidence. |
 | 28 | **Still Open** | Information Technology Officer | Yaobai Cement | Moroto Clinker Factory, Uganda | Full-time | IT operations, user support, systems administration, networking, hardware/software support, and site-based service delivery. | Relevant to Nathan’s ICT support, troubleshooting, field deployment, and operational technology experience. | **Thursday, 30 July 2026** | https://www.greatugandajobs.com/job-categories/newest-jobs/category-computer-it-jobs-in-uganda-13 | Apply if willing to work in Moroto. Emphasize field ICT support, systems administration, troubleshooting, and reliability. |
-| 29 | **Still Open** | Senior Data Collection & Integrity Officer | Raising The Village | Mbarara, Uganda | Full-time | Relevant degree; 4+ years; relational systems; Python/R advantage; SurveyCTO/CommCare/Survey123; GIS; data integrity and SOPs. | Good fit if Nathan can demonstrate data quality, databases, field operations, reporting, training, and ICT-enabled monitoring. | **Tuesday, 4 August 2026** | https://www.greatugandajobs.com/jobs/job-detail/job-Senior-Data-Collection-Integrity-Officer-job-at-Raising-The-Village-103201 | Apply if the 4+ years requirement is supportable. Emphasize field data quality, digital records, training, and operations. |
-| 30 | **Still Open** | Project Assistants | Raising The Village | Isingiro District, Uganda | Full-time | Relevant degree; 2+ years in field follow-up, reporting, work planning, repository support, Word, and Excel. | Relevant to Nathan’s project support, ICT field support, reporting, documentation, coordination, and record keeping. | **Tuesday, 4 August 2026** | https://www.greatugandajobs.com/jobs/job-detail/job-2-Project-Assistants-job-at-Raising-The-Village-103200 | Emphasize Electoral Commission field operations, reporting, digital records, training support, and community-facing work. |
+| 29 | **New — University ICT Role** | ICT Assistant | Uganda Martyrs University | Mbale Campus, Uganda | Full-time | ICT support role at Mbale Campus; exact academic and experience criteria should be confirmed in the full advert before submission. | Strong practical fit for Nathan’s IT support, university teaching exposure, troubleshooting, user support, systems administration, and software background. | **Thursday, 30 July 2026** | https://www.greatugandajobs.com/employers/newest-jobs/category-computer-it-jobs-in-uganda-13 | Review the full advert today, then tailor the ICT Support CV around university ICT support, user training, hardware/software troubleshooting, networking, and systems documentation. |
+| 30 | **Still Open** | Senior Data Collection & Integrity Officer | Raising The Village | Mbarara, Uganda | Full-time | Relevant degree; 4+ years; relational systems; Python/R advantage; SurveyCTO/CommCare/Survey123; GIS; data integrity and SOPs. | Good fit if Nathan can demonstrate data quality, databases, field operations, reporting, training, and ICT-enabled monitoring. | **Tuesday, 4 August 2026** | https://www.greatugandajobs.com/jobs/job-detail/job-Senior-Data-Collection-Integrity-Officer-job-at-Raising-The-Village-103201 | Apply if the 4+ years requirement is supportable. Emphasize field data quality, digital records, training, and operations. |
+| 31 | **Still Open** | Project Assistants | Raising The Village | Isingiro District, Uganda | Full-time | Relevant degree; 2+ years in field follow-up, reporting, work planning, repository support, Word, and Excel. | Relevant to Nathan’s project support, ICT field support, reporting, documentation, coordination, and record keeping. | **Tuesday, 4 August 2026** | https://www.greatugandajobs.com/jobs/job-detail/job-2-Project-Assistants-job-at-Raising-The-Village-103200 | Emphasize Electoral Commission field operations, reporting, digital records, training support, and community-facing work. |
 
 ## Expired / Removed Today
 
@@ -86,13 +87,15 @@ This remains the strongest strategic career fit. It directly combines Nathan’s
 2. **Finalize Donswift IT Officer immediately after gnuGrid.** The deadline is 14 July; foreground Electoral Commission ICT support, networking, troubleshooting, hardware/software support, documentation, and end-user assistance.
 3. **Prepare the 16 July applications as one urgent batch:** Donswift ICT Officer, Metropolitan International University Assistant IT Officer - eLearning, Asigma Technology Advisory Associate, and DCB ICT Risk Officer.
 4. **Prioritize URBRA before 17 July.** Feature Android, Flutter, PHP/web systems, PostgreSQL/MySQL, GitHub, public-sector ICT support, and technical documentation.
-5. **Keep the Raising The Village Data Collector application active.** Nathan’s Kyenjojo residency, Western Uganda familiarity, and Electoral Commission field-operations experience are directly useful evidence.
-6. Maintain three reusable CV versions: **ICT Support/Systems Administration**, **Software & Web/Mobile Development**, and **Data/MEAL/Reporting**.
-7. Attach relevant portfolio evidence: GitHub, mobile applications, WordPress sites, PHP/MySQL systems, database work, and reporting tools.
-8. Save every advert and submission confirmation because job-board pages may change or disappear after deadlines.
+5. **Review and prepare the new Uganda Martyrs University ICT Assistant application.** Confirm the full advert criteria, then use Nathan’s ICT Support/Systems Administration CV version and foreground university teaching exposure and end-user support.
+6. **Keep the Raising The Village Data Collector application active.** Nathan’s Kyenjojo residency, Western Uganda familiarity, and Electoral Commission field-operations experience are directly useful evidence.
+7. Maintain three reusable CV versions: **ICT Support/Systems Administration**, **Software & Web/Mobile Development**, and **Data/MEAL/Reporting**.
+8. Attach relevant portfolio evidence: GitHub, mobile applications, WordPress sites, PHP/MySQL systems, database work, and reporting tools.
+9. Save every advert and submission confirmation because job-board pages may change or disappear after deadlines.
 
 ## Sources Checked
 
+- Existing continuous briefing: `daily-job-briefings/2026-07-13-job-opportunities-briefing.md`
 - Previous continuous briefing: `daily-job-briefings/2026-07-12-job-opportunities-briefing.md`
 - Great Uganda Jobs Computer/IT: https://www.greatugandajobs.com/employers/newest-jobs/category-computer-it-jobs-in-uganda-13
 - Great Uganda Jobs Data, Monitoring, and Research: https://www.greatugandajobs.com/employers/newest-jobs/category-data%2C-monitoring%2C-and-research-jobs-in-uganda-47
